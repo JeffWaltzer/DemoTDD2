@@ -1,0 +1,2 @@
+class FractionParser
+end

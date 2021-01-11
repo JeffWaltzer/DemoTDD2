@@ -1,4 +1,6 @@
 require 'rspec'
+require_relative  '../src/fraction_parser'
+
 describe "Fraction parser" do
 
   before do
